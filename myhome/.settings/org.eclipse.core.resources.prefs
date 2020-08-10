@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/com/myhome/board/Controller.java=euc-kr
+encoding//src/com/myhome/board/action/Action.java=euc-kr
+encoding//src/com/myhome/board/action/ActionForward.java=euc-kr
+encoding//src/com/myhome/board/action/BoardListAction.java=euc-kr
+encoding//src/com/myhome/board/action/BoardReadAction.java=euc-kr
+encoding//src/com/myhome/board/action/BoardWriteAction.java=euc-kr
+encoding//src/com/myhome/dao/BoardDao.java=euc-kr
+encoding//src/com/myhome/dao/CommentDao.java=euc-kr
+encoding//src/com/myhome/file/Download.java=euc-kr
+encoding//src/com/myhome/file/FileList.java=euc-kr
+encoding//src/com/myhome/file/Upload.java=euc-kr
+encoding//src/com/myhome/member/FindId.java=euc-kr
+encoding//src/com/myhome/member/Join.java=euc-kr
+encoding//src/com/myhome/member/Login.java=euc-kr
+encoding//src/com/myhome/member/ModifyLogic.java=euc-kr
+encoding//src/com/myhome/member/Mypage.java=euc-kr
